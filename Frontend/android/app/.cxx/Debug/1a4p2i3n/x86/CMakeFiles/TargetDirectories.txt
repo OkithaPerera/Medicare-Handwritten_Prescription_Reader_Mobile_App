@@ -1,0 +1,2 @@
+/Users/kalana/Desktop/Projects/medicare/android/app/.cxx/Debug/1a4p2i3n/x86/CMakeFiles/edit_cache.dir
+/Users/kalana/Desktop/Projects/medicare/android/app/.cxx/Debug/1a4p2i3n/x86/CMakeFiles/rebuild_cache.dir
