@@ -1,2 +1,1 @@
-*.py linguist-language=Python
-*.dart linguist-language=Dart
+* linguist-language=Python
